@@ -1,4 +1,4 @@
-# Authentication-System
+
 # 🔐 Authentication System
 
 A secure Authentication System built using **Node.js**, **Express.js**, and **MongoDB**. It provides user registration, email OTP verification, JWT authentication, refresh token management, and session handling.
